@@ -1,5 +1,4 @@
 # learning-git
-sources that helped me learn git
 
 
 boot.dev, ThePrimagen's course: https://www.boot.dev/learn/learn-git
