@@ -1,7 +1,7 @@
 # learning-git
 
 
-boot.dev, ThePrimagen's course: https://www.boot.dev/learn/learn-git
+boot.dev, ThePrimagen's course: https://www.boot.dev/learn/learn-git, https://www.youtube.com/watch?v=rH3zE7VlIMs
 
 Learn Git Branching: https://learngitbranching.js.org/
 
