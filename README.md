@@ -9,4 +9,6 @@ Git Tutorials: https://www.git-scm.com/docs/gittutorial, https://www.git-scm.com
 
 Git cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
 
-Git patterns and anti-patterns : https://www.youtube.com/watch?v=t_4lLR6F_yk
+Git patterns and anti-patterns: https://www.youtube.com/watch?v=t_4lLR6F_yk
+
+So You Think You Know Git - FOSDEM 2024: https://www.youtube.com/watch?v=aolI_Rz0ZqY&t=1980s
